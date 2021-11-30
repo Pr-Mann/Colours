@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Colours</string>
+
+    <string name="colours">Number of colours</string>
+    <string name="quantity">Quantity of each lightbulb</string>
+    <string name="randomly_pick">Number of lightbulbs to pick</string>
+    <string name="repeat">Number of times to repeat</string>
+    <string name="count">Count</string>
+    <string name="error_dot">. not allowed</string>
+    <string name="error_comma">, not allowed</string>
+    <string name="error_space">Space not allowed</string>
+    <string name="error_hyphen">- not allowed</string>
+    <string name="error_empty">Enter some number</string>
+    <string name="error_zero">Minimum value is 1</string>
+    <string name="unique">Unique colours </string>
+</resources>
